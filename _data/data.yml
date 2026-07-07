@@ -176,76 +176,112 @@ skills:
 
   toolset:
   - name: Network Architecture
+    level: 65%
       
   - name: Firewall
+    level: 85%
       
   - name: Juniper (MX, SRX, EX, PTX, QFX)
+    level: 90%
       
   - name: Cisco (ASA, Switches, Router)
+    level: 80%
       
   - name: Palo Alto Networks
+    level: 80%
     
   - name: FortiNet (AP, Firewall, Switch)
+    level: 75%
     
   - name: Sophos (SG & XG)
+    level: 75%
     
   - name: NVIDIA / Mellanox
+    level: 80%
 
   - name: Aruba
+    level: 60%
 
   - name: Unifi
+    level: 90%
     
   - name: Linux
+    level: 85%
 
   - name: macOS
+    level: 85%
 
   - name: Windows
+    level: 55%
     
   - name: Mellanox Onyx
+    level: 85%
     
   - name: Cumulus Linux
+    level: 90%
 
   - name: VMware
+    level: 45%
     
   - name: Proxmox
+    level: 70%
     
   - name: nginx
+    level: 90%
     
   - name: frr
+    level: 85%
     
   - name: bird
+    level: 85%
     
   - name: PowerDNS
+    level: 80%
 
   - name: docker
+    level: 65%
     
   - name: ansible
+    level: 75%
     
   - name: git
+    level: 75%
     
   - name: IPv6
+    level: 95%
     
   - name: BGP
+    level: 90%
     
   - name: MPLS
+    level: 90%
     
   - name: EVPN
+    level: 90%
 
   - name: python
+    level: 85%
 
   - name: php
+    level: 45%
 
   - name: bash
+    level: 60%
     
   - name: Vulnerability Management
+    level: 75%
     
   - name: Incident Management
+    level: 75%
 
   - name: BSI IT-Grundschutz
+    level: 60%
 
   - name: BSI KRITIS
+    level: 60%
 
   - name: ISO 27001
+    level: 60%
     
       
 footer: >
