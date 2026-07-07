@@ -123,15 +123,19 @@ experiences:
 projects:
   title: Projects
   intro: >
-    These are some projects i've done in my past:
+    These are some projects I'm currently a part of:
   assignments:
     - title: rC3
       link: "https://infra.rc3.world"
       tagline: "Technical Lead for the rC3 infrastructure Team & the rC3"
 
-    - title: Sport am Tankumsee
-      link: "https://sport-am-tankumsee.de"
-      tagline: "Race Control, technical publications, streaming."
+    - title: RegattaTech.DE
+      link: "https://regattatech.de"
+      tagline: "Applications for Dragonboat Events."
+
+    - title: 161host.NET
+      link: "https://161host.net"
+      tagline: "Hosting for leftist groups & organisations"
 
     - title: Event Logistics @ CCC Events
       link: "https://c3loc.de"
@@ -187,23 +191,31 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Network Architect
+  - name: Network Architecture
       
   - name: Firewall
       
-  - name: Juniper
+  - name: Juniper (MX, SRX, EX, PTX, QFX)
       
-  - name: Cisco
+  - name: Cisco (ASA, Switches, Router)
       
   - name: Palo Alto Networks
     
-  - name: FortiNet
+  - name: FortiNet (AP, Firewall, Switch)
     
-  - name: Sophos
+  - name: Sophos (SG & XG)
     
   - name: NVIDIA / Mellanox
+
+  - name: Aruba
+
+  - name: Unifi
     
   - name: Linux
+
+  - name: macOS
+
+  - name: Windows
     
   - name: Mellanox Onyx
     
@@ -220,6 +232,8 @@ skills:
   - name: bird
     
   - name: PowerDNS
+
+  - name: docker
     
   - name: ansible
     
@@ -232,10 +246,22 @@ skills:
   - name: MPLS
     
   - name: EVPN
+
+  - name: python
+
+  - name: php
+
+  - name: bash
     
   - name: Vulnerability Management
     
   - name: Incident Management
+
+  - name: BSI IT-Grundschutz
+
+  - name: BSI KRITIS
+
+  - name: ISO 27001
     
       
 footer: >
