@@ -123,11 +123,11 @@ experiences:
 projects:
   title: Projects
   intro: >
-    These are some projects I'm currently a part of:
+    These are some projects I'm currently a part of or where formerly a part of:
   assignments:
     - title: rC3
       link: "https://infra.rc3.world"
-      tagline: "Technical Lead for the rC3 infrastructure Team & the rC3"
+      tagline: "Technical Lead for the rC3 infrastructure Team & the rC3 (until 2022)"
 
     - title: RegattaTech.DE
       link: "https://regattatech.de"
